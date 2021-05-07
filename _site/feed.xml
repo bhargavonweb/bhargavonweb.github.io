@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-07T20:04:50+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Bhargav’s portfolio</title><author><name>Bhargav Mehta</name><email>bhargavonweb@gmail.com</email></author><entry><title type="html">Create AP theme</title><link href="http://localhost:4000/2018-03-25/create-ap.theme" rel="alternate" type="text/html" title="Create AP theme" /><published>2018-03-25T00:00:00+05:30</published><updated>2018-03-25T00:00:00+05:30</updated><id>http://localhost:4000/2018-03-25/create-ap.theme</id><content type="html" xml:base="http://localhost:4000/2018-03-25/create-ap.theme">&lt;h2 id=&quot;create-ap-theme&quot;&gt;Create AP theme&lt;/h2&gt;
+&lt;p&gt;This is about the ap project.&lt;br /&gt;
+I had a management page for my career.&lt;br /&gt;
+But this time, I decided to change to the github page.&lt;br /&gt;
+By the way, I did not have a favorite theme, so I customized it myself.&lt;/p&gt;
+
+&lt;h2 id=&quot;tech&quot;&gt;Tech&lt;/h2&gt;
+&lt;p&gt;Now that I have a github page, I need to know ruby and jekyll.&lt;br /&gt;
+And, html, js, css or so?&lt;/p&gt;
+
+&lt;h2 id=&quot;duration&quot;&gt;Duration&lt;/h2&gt;
+&lt;p&gt;It did not take long to change the existing theme.&lt;br /&gt;
+I made it by modifying the &lt;a href=&quot;https://github.com/chesterhow/tale&quot;&gt;“tale”&lt;/a&gt; theme.&lt;/p&gt;</content><author><name>Bhargav Mehta</name><email>bhargavonweb@gmail.com</email></author><summary type="html">Create AP theme This is about the ap project. I had a management page for my career. But this time, I decided to change to the github page. By the way, I did not have a favorite theme, so I customized it myself.</summary></entry><entry><title type="html">Create github page</title><link href="http://localhost:4000/2018-01-02/github-page" rel="alternate" type="text/html" title="Create github page" /><published>2018-01-02T00:00:00+05:30</published><updated>2018-01-02T00:00:00+05:30</updated><id>http://localhost:4000/2018-01-02/github-page</id><content type="html" xml:base="http://localhost:4000/2018-01-02/github-page">&lt;h2 id=&quot;create-github-page&quot;&gt;Create github page&lt;/h2&gt;
+&lt;p&gt;This is a project for my github blog.&lt;br /&gt;
+I actually created a github page, but the contents are fake.&lt;/p&gt;
+
+&lt;h2 id=&quot;tech&quot;&gt;Tech&lt;/h2&gt;
+&lt;p&gt;To create a github page, you need to know ruby and jekyll.&lt;/p&gt;
+
+&lt;h2 id=&quot;duration&quot;&gt;Duration&lt;/h2&gt;
+&lt;p&gt;Well, about three days&lt;/p&gt;</content><author><name>Bhargav Mehta</name><email>bhargavonweb@gmail.com</email></author><summary type="html">Create github page This is a project for my github blog. I actually created a github page, but the contents are fake.</summary></entry><entry><title type="html">Reservation Bot</title><link href="http://localhost:4000/2017-12-14/reservation-bot" rel="alternate" type="text/html" title="Reservation Bot" /><published>2017-12-14T00:00:00+05:30</published><updated>2017-12-14T00:00:00+05:30</updated><id>http://localhost:4000/2017-12-14/reservation-bot</id><content type="html" xml:base="http://localhost:4000/2017-12-14/reservation-bot">&lt;h2 id=&quot;reservation-bot&quot;&gt;Reservation Bot&lt;/h2&gt;
+&lt;p&gt;This is just a project that suddenly reminds me.&lt;br /&gt;
+Of course I did not actually work, I wrote something plausible.&lt;br /&gt;
+To be honest, the project here is a virtual project.&lt;br /&gt;
+It’s all fake.&lt;/p&gt;
+
+&lt;h2 id=&quot;tech&quot;&gt;Tech&lt;/h2&gt;
+&lt;p&gt;I usually create a Bot with Slack and build it using the slack API.&lt;br /&gt;
+nd I used my favorite Python.&lt;/p&gt;
+
+&lt;h2 id=&quot;duration&quot;&gt;Duration&lt;/h2&gt;
+&lt;p&gt;I’ll make it in a day.&lt;/p&gt;</content><author><name>Bhargav Mehta</name><email>bhargavonweb@gmail.com</email></author><summary type="html">Reservation Bot This is just a project that suddenly reminds me. Of course I did not actually work, I wrote something plausible. To be honest, the project here is a virtual project. It’s all fake.</summary></entry><entry><title type="html">Create github</title><link href="http://localhost:4000/2017-10-11/create-github" rel="alternate" type="text/html" title="Create github" /><published>2017-10-11T00:00:00+05:30</published><updated>2017-10-11T00:00:00+05:30</updated><id>http://localhost:4000/2017-10-11/create-github</id><content type="html" xml:base="http://localhost:4000/2017-10-11/create-github">&lt;h2 id=&quot;create&quot;&gt;Create&lt;/h2&gt;
+&lt;p&gt;This time I recorded the creation of the github account.&lt;br /&gt;
+I can not say this is a project, but I did not have a project to write.&lt;/p&gt;
+
+&lt;h2 id=&quot;tech&quot;&gt;Tech&lt;/h2&gt;
+&lt;p&gt;There is no description because I created an account on the homepage.&lt;/p&gt;
+
+&lt;h2 id=&quot;duration&quot;&gt;Duration&lt;/h2&gt;
+&lt;p&gt;It takes less than an hour to create an account.&lt;/p&gt;</content><author><name>Bhargav Mehta</name><email>bhargavonweb@gmail.com</email></author><summary type="html">Create This time I recorded the creation of the github account. I can not say this is a project, but I did not have a project to write.</summary></entry><entry><title type="html">Toy Project 1</title><link href="http://localhost:4000/2017-08-21/toy-project-1" rel="alternate" type="text/html" title="Toy Project 1" /><published>2017-08-21T00:00:00+05:30</published><updated>2017-08-21T00:00:00+05:30</updated><id>http://localhost:4000/2017-08-21/toy-project-1</id><content type="html" xml:base="http://localhost:4000/2017-08-21/toy-project-1">&lt;h2 id=&quot;toy-project-1&quot;&gt;Toy Project 1.&lt;/h2&gt;
+&lt;p&gt;Creating a virtual project as a sample is difficult.&lt;br /&gt;
+So some of the samples will just copy the existing sample.&lt;/p&gt;
+
+&lt;h2 id=&quot;tech&quot;&gt;Tech&lt;/h2&gt;
+&lt;p&gt;This is a project using Python3.&lt;/p&gt;
+
+&lt;h2 id=&quot;duration&quot;&gt;Duration&lt;/h2&gt;
+&lt;p&gt;It seems to take about a week.&lt;/p&gt;</content><author><name>Bhargav Mehta</name><email>bhargavonweb@gmail.com</email></author><summary type="html">Toy Project 1. Creating a virtual project as a sample is difficult. So some of the samples will just copy the existing sample.</summary></entry><entry><title type="html">Toy Project</title><link href="http://localhost:4000/2017-05-01/toy-project" rel="alternate" type="text/html" title="Toy Project" /><published>2017-05-01T00:00:00+05:30</published><updated>2017-05-01T00:00:00+05:30</updated><id>http://localhost:4000/2017-05-01/toy-project</id><content type="html" xml:base="http://localhost:4000/2017-05-01/toy-project">&lt;h2 id=&quot;toy-project-1&quot;&gt;Toy Project 1.&lt;/h2&gt;
+&lt;p&gt;There is no specific form.&lt;br /&gt;
+You can write what you want to write.&lt;br /&gt;
+Since this markdown file is just displayed on the screen, you can create an image or format that matches the format you want.&lt;br /&gt;
+In the case of the example, I briefly described the project introduction, technique, and period.&lt;/p&gt;
+
+&lt;h2 id=&quot;techique&quot;&gt;Techique&lt;/h2&gt;
+&lt;p&gt;I wrote that I used python to run the project.&lt;br /&gt;
+You just need to describe how you made it.&lt;/p&gt;
+
+&lt;h2 id=&quot;duration&quot;&gt;Duration&lt;/h2&gt;
+&lt;p&gt;You can enter the period in a convenient format. &lt;br /&gt;
+You may specify only the duration of your work, assuming that you create a start date in the filename.&lt;/p&gt;</content><author><name>Bhargav Mehta</name><email>bhargavonweb@gmail.com</email></author><summary type="html">Toy Project 1. There is no specific form. You can write what you want to write. Since this markdown file is just displayed on the screen, you can create an image or format that matches the format you want. In the case of the example, I briefly described the project introduction, technique, and period.</summary></entry></feed>
