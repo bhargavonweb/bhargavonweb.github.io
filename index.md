@@ -11,6 +11,14 @@ layout: about
 
 <br/>
 
+# Interests
+- Technology ->
+- Business & Finance ->  
+- Media -> Hip-Hop Music, Alt-Music, Trap Music, Music Video's, Direction & Story-telling
+- Art -> Usually doodle around when I feel like it or just getting bored.
+
+<br/>
+
 # Career
 * Second Company (2012/01 ~ )
   * Web Application Firewall
@@ -19,10 +27,3 @@ layout: about
 * First Company (2011/01 ~ 2011/12)
   * VPN Development Company
   * Team Leader of VPN Development Div.
-
-<br/>
-
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
