@@ -1,11 +1,13 @@
 ---
-layout: about 
+layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+- Another human entity describing himself using digital entity.
+- A generalist in the world of accessible information on your fingertips.
+- Curious about humanities future
+- Metallurgical and Materials engineering student
+- Independent Music Artist
 
 <br/>
 
