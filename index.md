@@ -15,7 +15,7 @@ layout: about
 - Technology ->
 - Business & Finance ->  
 - Media -> Hip-Hop Music, Alt-Music, Trap Music, Music Video's, Direction & Story-telling
-- Art -> Usually doodle around when I feel like it or just getting bored.
+- Art -> Usually doodle around when I feel like it or just getting bored
 
 <br/>
 
